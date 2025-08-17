@@ -9,7 +9,7 @@
             "desktop":  "Gem.desktop"
         }
     },
-    "version": "1.4.0",
+    "version": "1.4.1",
     "maintainer": "Aaron Hafer <aaronhafe@gmx.de>",
     "framework" : "@CLICK_FRAMEWORK@"
 }
